@@ -4,7 +4,7 @@
     - name: Clone the dot-git repository
       git:
         repo: https://github.com/mrxcitement/dot-git
-        dest: /home/mike/github/mrxcitement/dot-git
+        dest: /Users/mike/github/mrxcitement/dot-git
         clone: yes
         update: yes
 
