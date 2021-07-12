@@ -9,5 +9,5 @@
         update: yes
 
     - name: Run install tasks from dot-git repository
-      include_taks: ~/github/mrxcitement/dot-git/install.yml
+      include_tasks: ~/github/mrxcitement/dot-git/install.yml
 
